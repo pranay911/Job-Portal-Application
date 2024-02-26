@@ -1,0 +1,19 @@
+{
+  "name": "job-portal",
+  "version": "1.0.0",
+  "description": "Job Portal Application in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Job",
+    "API"
+  ],
+  "author": "Pranay Gaikwad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
