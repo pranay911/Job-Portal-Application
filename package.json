@@ -15,8 +15,18 @@
   "author": "Pranay Gaikwad",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "dotenv": "^16.4.5",
-    "express": "^4.18.2",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.0",
     "nodemon": "^3.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranay911/Job-Portal-Application.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pranay911/Job-Portal-Application/issues"
+  },
+  "homepage": "https://github.com/pranay911/Job-Portal-Application#readme"
 }
